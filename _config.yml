@@ -1,0 +1,4 @@
+safe: true
+markdown: rdiscount
+lsi: false
+highlighter: pygments

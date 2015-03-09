@@ -1,0 +1,236 @@
+/* @override http://0.0.0.0:4000/css/styles.css
+@override http://localhost:4000/css/styles.css */
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	line-height: 1.3em;
+	background: #fff;
+	color: #333;
+	margin-top: 40px;
+}
+
+#header-banner {
+}
+
+#logo-image {
+	margin: auto;
+}
+
+#logo {
+	background: transparent url(../images/cocoaheads-berlin-logo-new.png) no-repeat top left;
+	width: 500px;
+	height: 290px;
+}
+
+h1, h2, h3 {
+	margin-top: 1em;
+	margin-bottom: 0.5em;
+	/*font-family: 'Cuprum', sans-serif;*/
+	font-weight:800;
+	text-transform: uppercase;
+	line-height: 1em;
+	text-shadow: 0 2px 0 rgba(255,255,255,0);
+}
+
+a, a:visited {color: #059;text-decoration:underline;}
+
+p {
+	margin-bottom: 0.5em;
+}
+
+.row {
+}
+
+#about blockquote {
+	font-style: italic;
+	margin-bottom: 0.5em;
+	
+}
+
+#about .source {
+	text-align: right;
+}
+
+#social-buttons {
+	text-align: center;
+}
+
+#social-buttons a {
+	border: 2px solid #FF8C00;
+	background-image: url(../images/social-icons.png);
+	background-repeat: no-repeat;
+	height: 100px;
+	width: 100px;
+	color: #FF8C00;
+	text-decoration: none;
+	font-family: 'Open Sans', sans-serif;
+	text-transform: uppercase;
+	font-weight:800;
+	font-size: 0.7em;
+	display: inline-block;
+	margin: 4px;
+	padding: 8px;
+	padding-top: 70px;
+	position: relative;
+	text-align: center;
+}
+
+#social-buttons .twitter {
+	background-position: 8px 0;
+}
+
+#social-buttons .vimeo {
+	background-position: -250px 0;
+}
+
+#social-buttons .google {
+	background-position: -120px 0;
+}
+
+h2.meeting {
+	padding: 8px;
+	background: #eee;
+}
+
+h2.meeting.upcoming { 
+	background-color: #FF8C00;
+	color: #fff;
+}
+
+a.bvg {
+  font-size: smaller;
+  color: white;
+  margin: 0;
+  padding: 2px 4px;
+  text-decoration: none;
+}
+a.bvg:hover {
+  color:black;
+}
+a.u1 {background-color:#7DAD4C;}
+a.u6 {background-color:#8C6DAB;}
+a.u7 {background-color:#528DBA;}
+a.bus {
+  background-color:#95276E;
+}
+a.metrobus {
+  color:black;
+}
+span.metrobus {
+  color: white;
+  background-color: #F3791D;
+  margin-right: 2px;
+  padding-left: 0.38em;
+  font-size: smaller;
+  font-style: italic;
+  width: 1.6em;
+  height: 1.6em;
+  border-radius: 0.8em;
+  display: inline-block;
+}
+
+.footer {
+	margin-top: 3em;
+	font-size: 0.9em;
+	color: #999;
+}
+
+/*font-family: 'Carter One', sans-serif;*/
+
+/* ============================== */
+/* ! Layout for desktop version   */
+/* ============================== */
+
+	body {
+		
+	}
+	
+
+/* ============================= */
+/* ! Layout for mobile version   */
+/* ============================= */
+
+@media handheld, only screen and (max-width: 767px) {
+
+	body {
+		
+	}
+
+}
+
+
+/* ========================================== */
+/* ! Provide higher res assets for iPhone 4   */
+/* ========================================== */
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2) { 
+
+/*	.logo {
+		background: url(logo2x.jpg) no-repeat;
+		background-size: 212px 303px;
+	}*/
+
+}
+
+/* From http://nicolasgallagher.com/css-drop-shadows-without-images/demo/ */
+
+/* Shared styles */
+        
+.drop-shadow {
+    position:relative;
+    padding:1em; 
+    margin:1em 10px 2em 10px; 
+    background:#fff;
+    -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+       -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+            box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
+
+.drop-shadow:before,
+.drop-shadow:after {
+    content:"";
+    position:absolute; 
+    z-index:-2;
+}
+
+/* Lifted corners */
+
+.lifted {
+    -moz-border-radius:4px; 
+         border-radius:4px;
+}
+
+.lifted:before,
+.lifted:after { 
+    bottom:15px;
+    left:10px;
+    width:50%;
+    height:20%;
+    max-width:300px;
+    -webkit-box-shadow:0 15px 10px rgba(0, 0, 0, 0.5);   
+       -moz-box-shadow:0 15px 10px rgba(0, 0, 0, 0.5);
+            box-shadow:0 15px 10px rgba(0, 0, 0, 0.5);
+    -webkit-transform:rotate(-3deg);    
+       -moz-transform:rotate(-3deg);   
+        -ms-transform:rotate(-3deg);   
+         -o-transform:rotate(-3deg);
+            transform:rotate(-3deg);
+}
+
+.lifted:after {
+    right:10px; 
+    left:auto;
+    -webkit-transform:rotate(3deg);   
+       -moz-transform:rotate(3deg);  
+        -ms-transform:rotate(3deg);  
+         -o-transform:rotate(3deg);
+            transform:rotate(3deg);
+}
+
+/* The Magnificent Clearfix: Updated to prevent margin-collapsing on child elements.
+   j.mp/bestclearfix */
+.clearfix:before, .clearfix:after { content: "\0020"; display: block; height: 0; overflow: hidden; }
+.clearfix:after { clear: both; }
+/* Fix clearfix: blueprintcss.lighthouseapp.com/projects/15318/tickets/5-extra-margin-padding-bottom-of-page */
+.clearfix { zoom: 1; }
