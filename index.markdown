@@ -12,6 +12,7 @@ If you're into Cocoa and in Münster, come by and say Hi!
 	<a class="twitter" href="https://twitter.com/cocoaheads_ms">
 		<span class="title">Twitter</span>
 	</a>
+	 - 
 	<a class="vimeo" href="https://www.facebook.com/groups/cocoaheads.ms/">
 		<span clasS="title">Facebook</span>
 	</a> 
@@ -27,20 +28,18 @@ If you're into Cocoa and in Münster, come by and say Hi!
 
 **Location**
 
-<address><a href="https://www.google.com/maps/place/Früh+Bis+Spät/@51.961794,7.633094,17z/data=!3m1!4b1!4m2!3m1!1s0x47b9bae7be7a8a05:0xef38ea6ffd59a6f2">Früh bis Spät</a><br/>
+<address>[Früh bis Spät](https://www.google.com/maps/place/Früh+Bis+Spät/@51.961794,7.633094,17z/data=!3m1!4b1!4m2!3m1!1s0x47b9bae7be7a8a05:0xef38ea6ffd59a6f2)<br/>
 Alter Steinweg 31<br/>
 48143 Münster<br/>
 </address>
-(<a href="https://www.google.com/maps/place/Früh+Bis+Spät/@51.961794,7.633094,17z/data=!3m1!4b1!4m2!3m1!1s0x47b9bae7be7a8a05:0xef38ea6ffd59a6f2">map</a>)
+([map](https://www.google.com/maps/place/Früh+Bis+Spät/@51.961794,7.633094,17z/data=!3m1!4b1!4m2!3m1!1s0x47b9bae7be7a8a05:0xef38ea6ffd59a6f2)
 
 **Talks**
 
-* Apple Event (live) "Spring Forward."
-
-<a href="https://www.facebook.com/events/1571788669765074/">RSVP</a>
+* Apple Event (live) "Spring Forward." - [RSVP](https://www.facebook.com/events/1571788669765074/)
 
 <div id="talk-survey" class="drop-shadow lifted">
-    Are you interested in giving a talk? Send an email to <a href="mailto:cocoaheads-ms@chbeer.de">Christian</a>!
+    Are you interested in giving a talk? Send an email to [Christian](mailto:cocoaheads-ms@chbeer.de)!
 </div>
 
 # Recent Meetings
@@ -51,7 +50,7 @@ More past talks can be found in the [archive](talks-archive.html).
 
 Usually we meet at:
 
-TBD (maybe BuVo)
+TBD (maybe [BuVo](https://www.google.com/maps/place/Der+Bunte+Vogel/@51.961572,7.631933,17z/data=!4m7!1m4!3m3!1s0x47b9badcec10a469:0x391f394c77bd9482!2sDer+Bunte+Vogel!3b1!3m1!1s0x47b9badcec10a469:0x391f394c77bd9482)
 <!--<address id="codekollektiv-vcard">
   <strong>CodeKollektiv</strong><br>
   Großbeerenstraße 79, 3rd floor<br>
@@ -95,7 +94,7 @@ Also, there are a lot of food stalls around U Mehringdamm.
 
 # About
 
-Organzier: <a href="http://chbeer.de">Christian Beer</a>
+Organzier: [Christian Beer](http://chbeer.de)
 
 A list of our members can be found on our [Facebook page](https://www.facebook.com/groups/cocoaheads.ms/).
 
