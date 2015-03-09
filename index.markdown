@@ -9,13 +9,9 @@ If you're into Cocoa and in Münster, come by and say Hi!
 
 <!--  id="social-buttons" -->
 <div class="container-fluid">
-	<a class="twitter" href="https://twitter.com/cocoaheads_ms">
-		<span class="title">Twitter</span>
-	</a>
+	<a class="twitter" href="https://twitter.com/cocoaheads_ms"><span class="title">Twitter</span></a>
 	 - 
-	<a class="vimeo" href="https://www.facebook.com/groups/cocoaheads.ms/">
-		<span clasS="title">Facebook</span>
-	</a> 
+	<a class="vimeo" href="https://www.facebook.com/groups/cocoaheads.ms/"><span clasS="title">Facebook</span></a> 
 <!--	<a class="google" href="http://groups.google.com/group/berlin-cocoaheads?hl=de">
 		<span class="title">Groups</span>
 	</a> -->
@@ -50,7 +46,7 @@ More past talks can be found in the [archive](talks-archive.html).
 
 Usually we meet at:
 
-TBD (maybe [BuVo](https://www.google.com/maps/place/Der+Bunte+Vogel/@51.961572,7.631933,17z/data=!4m7!1m4!3m3!1s0x47b9badcec10a469:0x391f394c77bd9482!2sDer+Bunte+Vogel!3b1!3m1!1s0x47b9badcec10a469:0x391f394c77bd9482)
+TBD (maybe [BuVo](https://www.google.com/maps/place/Der+Bunte+Vogel/@51.961572,7.631933,17z/data=!4m7!1m4!3m3!1s0x47b9badcec10a469:0x391f394c77bd9482!2sDer+Bunte+Vogel!3b1!3m1!1s0x47b9badcec10a469:0x391f394c77bd9482) )
 <!--<address id="codekollektiv-vcard">
   <strong>CodeKollektiv</strong><br>
   Großbeerenstraße 79, 3rd floor<br>
