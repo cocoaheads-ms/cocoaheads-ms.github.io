@@ -7,7 +7,8 @@ We are the Münster chapter of the [CocoaHeads](http://www.cocoaheads.org) commu
 
 If you're into Cocoa and in Münster, come by and say Hi!
 
-<div class="container-fluid" id="social-buttons">
+<!--  id="social-buttons" -->
+<div class="container-fluid">
 	<a class="twitter" href="https://twitter.com/cocoaheads_ms">
 		<span class="title">Twitter</span>
 	</a>
@@ -39,7 +40,7 @@ Alter Steinweg 31<br/>
 <a href="https://www.facebook.com/events/1571788669765074/">RSVP</a>
 
 <div id="talk-survey" class="drop-shadow lifted">
-    Are you interested in giving a talk? Send an email to <a href="cocoaheads-ms@chbeer.de">Christian</a>!
+    Are you interested in giving a talk? Send an email to <a href="mailto:cocoaheads-ms@chbeer.de">Christian</a>!
 </div>
 
 # Recent Meetings
