@@ -35,7 +35,7 @@ Alter Steinweg 31<br/>
 * Apple Event (live) "Spring Forward." - [RSVP](https://www.facebook.com/events/1571788669765074/)
 
 <div id="talk-survey" class="drop-shadow lifted">
-    Are you interested in giving a talk? Send an email to [Christian](mailto:cocoaheads-ms@chbeer.de)!
+    Are you interested in giving a talk? Send an email to <a href="mailto:cocoaheads-ms@chbeer.de">Christian</a>!
 </div>
 
 # Recent Meetings
