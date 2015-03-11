@@ -20,25 +20,27 @@ If you're into Cocoa and in Münster, come by and say Hi!
 
 # Next Meeting
 
-<h2 class="meeting upcoming">Mar 9th, 2015, 5:30pm @ Früh bis Spät, Alter Steinweg 31</h2>
+<h2 class="meeting upcoming">TBD</h2>
 
 **Location**
 
-<address><a href="https://www.google.com/maps/place/Früh+Bis+Spät/@51.961794,7.633094,17z/data=!3m1!4b1!4m2!3m1!1s0x47b9bae7be7a8a05:0xef38ea6ffd59a6f2">Früh bis Spät</a><br/>
+<!--<address><a href="https://www.google.com/maps/place/Früh+Bis+Spät/@51.961794,7.633094,17z/data=!3m1!4b1!4m2!3m1!1s0x47b9bae7be7a8a05:0xef38ea6ffd59a6f2">Früh bis Spät</a><br/>
 Alter Steinweg 31<br/>
 48143 Münster<br/>
 </address>
-(<a href="https://www.google.com/maps/place/Früh+Bis+Spät/@51.961794,7.633094,17z/data=!3m1!4b1!4m2!3m1!1s0x47b9bae7be7a8a05:0xef38ea6ffd59a6f2">map</a>)
+(<a href="https://www.google.com/maps/place/Früh+Bis+Spät/@51.961794,7.633094,17z/data=!3m1!4b1!4m2!3m1!1s0x47b9bae7be7a8a05:0xef38ea6ffd59a6f2">map</a>)-->
 
 **Talks**
+
+…
+
+# Recent Meetings
 
 * Apple Event (live) "Spring Forward." - [RSVP](https://www.facebook.com/events/1571788669765074/)
 
 <div id="talk-survey" class="drop-shadow lifted">
     Are you interested in giving a talk? Send an email to <a href="mailto:cocoaheads-ms@chbeer.de">Christian</a>!
 </div>
-
-# Recent Meetings
 
 More past talks can be found in the [archive](talks-archive.html).
 
