@@ -93,5 +93,3 @@ Also, there are a lot of food stalls around U Mehringdamm.
 Organzier: [Christian Beer](http://chbeer.de)
 
 A list of our members can be found on our [Facebook page](https://www.facebook.com/groups/cocoaheads.ms/).
-
-<p class="footer">Website designed by <a href="https://twitter.com/rpitting">Reiner Pittinger</a>.</p>
