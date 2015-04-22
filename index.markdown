@@ -20,11 +20,15 @@ If you're into Cocoa and in Münster, come by and say Hi!
 
 # Next Meeting
 
-<h2 class="meeting upcoming">TBD</h2>
+<h2 class="meeting upcoming">23. April, 2015, 19:00 Uhr @ Café Dreiklang, Wolbecker Straße</h2>
 
 **Location**
 
-…
+<address><a href="https://www.facebook.com/stullenschmiede/info?tab=page_info">Café Dreiklang</a><br/>
+Wolbecker Straße 38<br/>
+48155 Münster<br/>
+</address>
+(<a href="https://www.google.com/maps/place/Wolbecker+Str.+38,+48155+Münster,+Germany/@51.9574967,7.6398686,17z/data=!3m1!4b1!4m2!3m1!1s0x47b9bad8f0000673:0xf2987a2491b207cd">map</a>)
 
 <!--<address><a href="https://www.google.com/maps/place/Früh+Bis+Spät/@51.961794,7.633094,17z/data=!3m1!4b1!4m2!3m1!1s0x47b9bae7be7a8a05:0xef38ea6ffd59a6f2">Früh bis Spät</a><br/>
 Alter Steinweg 31<br/>
@@ -34,7 +38,7 @@ Alter Steinweg 31<br/>
 
 **Talks**
 
-…
+None
 
 <div id="talk-survey" class="drop-shadow lifted">
     Are you interested in giving a talk? Send an email to <a href="mailto:cocoaheads-ms@chbeer.de">Christian</a>!
