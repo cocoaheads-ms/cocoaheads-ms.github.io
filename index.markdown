@@ -3,9 +3,9 @@ layout: default
 title: Welcome!
 ---
 
-We are the Münster chapter of the [CocoaHeads](http://www.cocoaheads.org) community. We meet once every month, **every … (TBD)**, and talk about iOS and OS X development. 
+Wir sind der Ableger der [CocoaHeads](http://www.cocoaheads.org) Community in Münster. Wir treffen uns **jeden letzten Donnerstag im Monat** und sprechen über iOS und OS X Entwicklung.
 
-If you're into Cocoa and in Münster, come by and say Hi!
+Anfänger und Profis sind gleichermaßen herzlich willkommen! Wenn du Cocoa magst und in Münster bist, komm einfach vorbei.
 
 <!--  id="social-buttons" -->
 <div class="container-fluid">
@@ -18,11 +18,11 @@ If you're into Cocoa and in Münster, come by and say Hi!
 	<div class="clear"></div>
 </div>
 
-# Next Meeting
+# Nächstes Treffen
 
-<h2 class="meeting upcoming">23. April, 2015, 19:00 Uhr @ Café Dreiklang, Wolbecker Straße</h2>
+<h2 class="meeting upcoming">28. Mai, 2015, 19:00 Uhr @ Café Dreiklang, Wolbecker Straße</h2>
 
-**Location**
+## Ort
 
 <address><a href="https://www.facebook.com/stullenschmiede/info?tab=page_info">Café Dreiklang</a><br/>
 Wolbecker Straße 38<br/>
@@ -36,26 +36,26 @@ Alter Steinweg 31<br/>
 </address>
 (<a href="https://www.google.com/maps/place/Früh+Bis+Spät/@51.961794,7.633094,17z/data=!3m1!4b1!4m2!3m1!1s0x47b9bae7be7a8a05:0xef38ea6ffd59a6f2">map</a>)-->
 
-**Talks**
+## Vorträge
 
-None
+_Bisher keine_
 
 <div id="talk-survey" class="drop-shadow lifted">
-    Are you interested in giving a talk? Send an email to <a href="mailto:cocoaheads-ms@chbeer.de">Christian</a>!
+    Hast du Interesse einen Vortrag zu halten, schreib' eine Mail an <a href="mailto:cocoaheads-ms@chbeer.de">Christian</a>!
 </div>
 
-# Recent Meetings
+# Vergangene Treffen
 
 * Apple Event (live) "Spring Forward." - [RSVP](https://www.facebook.com/events/1571788669765074/)
 
 
-More past talks can be found in the [archive](talks-archive.html).
+Im [Archiv](talks-archive.html) kann man (später) ältere Vorträge finden.
 
-# Location
+# Treffpunkt
 
-Usually we meet at:
+Normalerweise treffen wir uns:
 
-TBD (maybe [BuVo](https://www.google.com/maps/place/Der+Bunte+Vogel/@51.961572,7.631933,17z/data=!4m7!1m4!3m3!1s0x47b9badcec10a469:0x391f394c77bd9482!2sDer+Bunte+Vogel!3b1!3m1!1s0x47b9badcec10a469:0x391f394c77bd9482) )
+_Noch unklar_ (vielleicht [BuVo](https://www.google.com/maps/place/Der+Bunte+Vogel/@51.961572,7.631933,17z/data=!4m7!1m4!3m3!1s0x47b9badcec10a469:0x391f394c77bd9482!2sDer+Bunte+Vogel!3b1!3m1!1s0x47b9badcec10a469:0x391f394c77bd9482) )
 <!--<address id="codekollektiv-vcard">
   <strong>CodeKollektiv</strong><br>
   Großbeerenstraße 79, 3rd floor<br>
@@ -97,8 +97,8 @@ Wanna grab something to eat before the meetup? There is a good pizza/pasta place
 Also, there are a lot of food stalls around U Mehringdamm.
 -->
 
-# About
+# Über
 
-Organzier: [Christian Beer](http://chbeer.de)
+Organisiert durch: [Christian Beer](http://chbeer.de)
 
-A list of our members can be found on our [Facebook page](https://www.facebook.com/groups/cocoaheads.ms/).
+Eine Liste der Teilnehmer findest du auf unserer [Facebook Seite](https://www.facebook.com/groups/cocoaheads.ms/).
