@@ -20,7 +20,7 @@ Anfänger und Profis sind gleichermaßen herzlich willkommen! Wenn du Cocoa mags
 
 # Nächstes Treffen
 
-<h2 class="meeting upcoming">28. Mai, 2015, 19:00 Uhr @ Café Dreiklang, Wolbecker Straße</h2>
+<h2 class="meeting upcoming">Dritter Donnerstag im Monat, 19:00 Uhr @ Café Dreiklang, Wolbecker Straße</h2>
 
 ## Ort
 
