@@ -45,7 +45,9 @@ Alter Steinweg 31<br/>
 
 ## Vorträge
 
-_Bisher keine_
+<p>Vortrag von <a href="http://twitter.com/pkirchner">@pkirchner</a> über AVFoundation.</p>
+
+<p>Außerdem: Aktuelle Themen wie Swift 2, WatchOS 2, iOS 9, OS X 10.11, …</p>
 
 <div id="talk-survey" class="drop-shadow lifted">
     Hast du Interesse einen Vortrag zu halten, schreib' eine Mail an <a href="mailto:cocoaheads-ms@chbeer.de">Christian</a>!
