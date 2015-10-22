@@ -20,7 +20,7 @@ Anfänger und Profis sind gleichermaßen herzlich willkommen! Wenn du Cocoa mags
 
 # Nächstes Treffen
 
-<h2 class="meeting upcoming">27. August, 19:00 Uhr @ WarpZone.ms, Am Hawerkamp</h2>
+<h2 class="meeting upcoming">29. Oktober, 19:00 Uhr @ WarpZone.ms, Am Hawerkamp</h2>
 
 ## Ort
 
