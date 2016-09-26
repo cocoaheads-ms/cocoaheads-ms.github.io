@@ -3,9 +3,11 @@ layout: default
 title: Welcome!
 ---
 
-Wir sind der Ableger der [CocoaHeads](http://www.cocoaheads.org) Community in Münster. Wir treffen uns **jeden letzten Donnerstag im Monat** und sprechen über iOS und OS X Entwicklung.
+Wir sind der Ableger der [CocoaHeads](http://www.cocoaheads.org) Community in Münster. Wir treffen uns **jeden letzten Montag im Monat** und sprechen über iOS und OS X Entwicklung.
 
 Anfänger und Profis sind gleichermaßen herzlich willkommen! Wenn du Cocoa magst und in Münster bist, komm einfach vorbei.
+
+Mehr Infos finden sich auf der <a href="http://cocoaheads.org:8106/de/Muenster/index.html">offiziellen CocoaHeads Seite</a>.
 
 <!--  id="social-buttons" -->
 <div class="container-fluid">
@@ -20,16 +22,18 @@ Anfänger und Profis sind gleichermaßen herzlich willkommen! Wenn du Cocoa mags
 
 # Nächstes Treffen
 
-<h2 class="meeting upcoming">29. Oktober, 19:00 Uhr @ WarpZone.ms, Am Hawerkamp</h2>
+<h2 class="meeting upcoming">Bitte auf <a href="http://cocoaheads.org:8106/de/Muenster/index.html">der CocoaHeads Seite</a> schauen.</h2>
 
 ## Ort
 
-<address><a href="https://www.warpzone.ms/wiki/newbiebereich:besuch">WarpZone.ms</a><br/>
+Bitte auf <a href="http://cocoaheads.org:8106/de/Muenster/index.html">der CocoaHeads Seite</a> schauen.
+
+<!--<address><a href="https://www.warpzone.ms/wiki/newbiebereich:besuch">WarpZone.ms</a><br/>
 Am Hawerkamp<br/>
 Münster<br/>
 </address>
 (<a href="https://www.google.de/maps/place/warpzone+e.V./@51.944511,7.63893">map</a>)
-
+-->
 <!-- <address><a href="https://www.facebook.com/stullenschmiede/info?tab=page_info">Café Dreiklang</a><br/>
 Wolbecker Straße 38<br/>
 48155 Münster<br/>
@@ -43,7 +47,7 @@ Alter Steinweg 31<br/>
 </address>
 (<a href="https://www.google.com/maps/place/Früh+Bis+Spät/@51.961794,7.633094,17z/data=!3m1!4b1!4m2!3m1!1s0x47b9bae7be7a8a05:0xef38ea6ffd59a6f2">map</a>)-->
 
-## Vorträge
+<!-- ## Vorträge
 
 <p>Vortrag von <a href="http://twitter.com/pkirchner">@pkirchner</a> über AVFoundation.</p>
 
@@ -59,52 +63,7 @@ Alter Steinweg 31<br/>
 
 
 Im [Archiv](talks-archive.html) kann man (später) ältere Vorträge finden.
-
-# Treffpunkt
-
-Normalerweise treffen wir uns:
-
-_Noch unklar_ (vielleicht [BuVo](https://www.google.com/maps/place/Der+Bunte+Vogel/@51.961572,7.631933,17z/data=!4m7!1m4!3m3!1s0x47b9badcec10a469:0x391f394c77bd9482!2sDer+Bunte+Vogel!3b1!3m1!1s0x47b9badcec10a469:0x391f394c77bd9482) )
-<!--<address id="codekollektiv-vcard">
-  <strong>CodeKollektiv</strong><br>
-  Großbeerenstraße 79, 3rd floor<br>
-  10963 Berlin (Kreuzberg)<br>
-</address>
-
-<a href="http://maps.google.com/maps?q=Gro%C3%9Fbeerenstra%C3%9Fe+79,+10963,+Berlin,+Deutschland&hl=en&ie=UTF8&sll=37.0625,-95.677068&sspn=52.815565,56.953125&vpsrc=6&hnear=Gro%C3%9Fbeerenstra%C3%9Fe+79,+Berlin+10963+Berlin,+Germany&t=v&z=16">CodeKollektiv on Google Maps</a>
-
-The closest subway stations are:
-
-<p>
-      <a href="http://www.fahrinfo-berlin.de/Fahrinfo/bin/" title="Fahrplan Info"><img style="height:30px" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bvg-logo.svg/235px-Bvg-logo.svg.png"></a><br>
-      <a class="bvg u1" href="http://www.bvg.de/index.php/de/3729/name/U-Bahnlinie+U1.html" title="U1 subway info">U1</a>
-      <a class="bvg u7" href="http://www.bvg.de/index.php/de/3735/name/U-Bahnlinie+U7.html" title="U7 subway info">U7</a>
-      <a href="http://www.bvg.de/index.php/de/3729/name/U-Bahnlinie+U1/area/89482.html" title="Subway station info">Möckernbrücke</a>
-      (<a href="http://goo.gl/maps/40kY" title="Route from Möckernbrücke to CodeKollektiv">~5 min walk from Ausgang Tempelhofer Ufer / Möckernstr</a>)
-      <br>
-      <a class="bvg u6" href="http://www.bvg.de/index.php/de/3734/name/U-Bahnlinie+U6.html" title="U6 subway info">U6</a>
-      <a class="bvg u7" href="http://www.bvg.de/index.php/de/3735/name/U-Bahnlinie+U7.html" title="U7 subway info">U7</a>
-      <a class="bvg bus" href="http://www.bvg.de/index.php/de/binaries/asset/download/58202/file/1-1" title="Bus 140 stops">140</a>
-      <a class="bvg metrobus" href="http://www.bvg.de/index.php/de/binaries/asset/download/22107/file/1-1" title="Bus M19 stops"><span class="metrobus">M</span>19</a>
-      <a href="http://www.bvg.de/index.php/de/3735/name/U-Bahnlinie+U7/area/89332.html" title="Subway station info">Mehringdamm</a>
-      (<a href="http://goo.gl/maps/gG37" title="Route from Mehringdamm to CodeKollektiv">~5–10 min walk from Ausgang Obentrautstraße / Finanzamt.</a>)
-      <br>
-      <a class="bvg u1" href="http://www.bvg.de/index.php/de/3729/name/U-Bahnlinie+U1.html" title="U1 subway info">U1</a>
-      <a class="bvg u6" href="http://www.bvg.de/index.php/de/3734/name/U-Bahnlinie+U6.html" title="U6 subway info">U6</a>
-      <a class="bvg bus" href="http://www.bvg.de/index.php/de/binaries/asset/download/22274/file/1-1" title="Bus 248 stops">248</a>
-      <a class="bvg metrobus" href="http://www.bvg.de/index.php/de/binaries/asset/download/22119/file/1-1" title="Bus M41 stops"><span class="metrobus">M</span>41</a>
-      <a href="http://www.bvg.de/index.php/de/3735/name/U-Bahnlinie+U7/area/89332.html" title="Subway station info">Hallesches Tor</a>
-      (<a href="http://goo.gl/maps/GlR4" title="Route from Hallesches Tor to CodeKollektiv">~10–15 min walk</a>)
-  </p>	
-  
-## Drinks and Food
-
-Drinks are available on site for € 1.– per bottle.
-
-Wanna grab something to eat before the meetup? There is a good pizza/pasta place on the corner right next to CodeKollektiv. 
-
-Also, there are a lot of food stalls around U Mehringdamm.
--->
+ -->
 
 # Über
 
