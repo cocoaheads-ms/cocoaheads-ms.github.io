@@ -53,7 +53,7 @@ Alter Steinweg 31<br/>
 
 ### 2018 - Mai
 
-* [201805_Carsten_Wenderdel_Charles-Proxy.pdf](Carsten Wenderdel : Introduction Charles Proxy)
+* [Introduction Charles Proxy - Carsten Wenderdel](talks/201805_Carsten_Wenderdel_Charles-Proxy.pdf)
 
 Im [Archiv](talks-archive.html) kann man ältere Vorträge finden.
 
