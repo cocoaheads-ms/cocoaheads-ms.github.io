@@ -47,22 +47,28 @@ Alter Steinweg 31<br/>
 </address>
 (<a href="https://www.google.com/maps/place/Früh+Bis+Spät/@51.961794,7.633094,17z/data=!3m1!4b1!4m2!3m1!1s0x47b9bae7be7a8a05:0xef38ea6ffd59a6f2">map</a>)-->
 
-<!-- ## Vorträge
-
-<p>Vortrag von <a href="http://twitter.com/pkirchner">@pkirchner</a> über AVFoundation.</p>
-
-<p>Außerdem: Aktuelle Themen wie Swift 2, WatchOS 2, iOS 9, OS X 10.11, …</p>
+## Vorträge
 
 <div id="talk-survey" class="drop-shadow lifted">
     Hast du Interesse einen Vortrag zu halten, schreib' eine Mail an <a href="mailto:cocoaheads-ms@chbeer.de">Christian</a>!
 </div>
 
+
+### 2018
+
+#### Mai
+
+[201805_Carsten_Wenderdel_Charles-Proxy.pdf](Carsten Wenderdel : Introduction Charles Proxy)
+
+
+Im [Archiv](talks-archive.html) kann man ältere Vorträge finden.
+
+<!--
 # Vergangene Treffen
 
 * Apple Event (live) "Spring Forward." - [RSVP](https://www.facebook.com/events/1571788669765074/)
 
 
-Im [Archiv](talks-archive.html) kann man (später) ältere Vorträge finden.
  -->
 
 # Über
