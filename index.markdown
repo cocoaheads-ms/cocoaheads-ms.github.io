@@ -35,9 +35,7 @@ function _ical_callback(event) {
 loadICal(_ical_callback);
 </script>
 
-## Ort
-
-Bitte auf <a href="http://cocoaheads.org:8106/de/Muenster/index.html">der CocoaHeads Seite</a> schauen.
+Weitere Infos findest du auf <a href="http://cocoaheads.org:8106/de/Muenster/index.html">der CocoaHeads Seite</a>.
 
 <!--<address><a href="https://www.warpzone.ms/wiki/newbiebereich:besuch">WarpZone.ms</a><br/>
 Am Hawerkamp<br/>
