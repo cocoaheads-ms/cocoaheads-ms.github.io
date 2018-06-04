@@ -3,7 +3,7 @@ layout: default
 title: Welcome!
 ---
 
-Wir sind der Ableger der [CocoaHeads](http://www.cocoaheads.org) Community in Münster. Wir treffen uns **jeden letzten Montag im Monat** und sprechen über iOS, macOS, watchOS oder tvOS Entwicklung, über Swift und Objective-C, etc...
+Wir sind der Ableger der [CocoaHeads](http://www.cocoaheads.org) Community in Münster. Wir treffen uns **normalerweise jeden letzten Montag im Monat** und sprechen über iOS, macOS, watchOS oder tvOS Entwicklung, über Swift und Objective-C, etc...
 
 Anfänger sind genau so herzlich willkommen wie Profis! Wenn du Cocoa, Swift oder Objective-C magst und in oder um Münster bist, komm einfach vorbei.
 
