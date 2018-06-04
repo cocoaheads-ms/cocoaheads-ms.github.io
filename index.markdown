@@ -22,9 +22,11 @@ Mehr Infos finden sich auf der <a href="http://cocoaheads.org:8106/de/Muenster/i
 <h2 class="meeting upcoming" id="nextMeeting">Bitte auf <a href="http://cocoaheads.org:8106/de/Muenster/index.html">der CocoaHeads Seite</a> schauen.</h2>
 
 <script language="JavaScript">
-var event = loadICal();
-var nextMeeting = document.getElementById("nextMeeting");
-nextMeeting.textContent = "" + event.startDate + " at " + event.location;
+function _ical_callback(event) {
+  var nextMeeting = document.getElementById("nextMeeting");
+  nextMeeting.textContent = "" + event.startDate + " at " + event.location;
+}
+loadICal(_ical_callback);
 </script>
 
 ## Ort
