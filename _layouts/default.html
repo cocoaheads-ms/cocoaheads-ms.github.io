@@ -22,6 +22,17 @@
     <![endif]-->
 
 	<link rel="shortcut icon" href="/favicon.ico">
+	  
+    <script type="text/javascript" src="https://rawgit.com/mozilla-comm/ical.js/master/build/ical.js"></script>
+    <script type="text/javascript">
+    function load() {
+        fetch('http://www.cocoaheads.org//de/Muenster/events.ics')
+        .then(response => response.text())
+        .then((data) => {
+              console.log(data)
+              })
+    }
+    </script>
 
   </head>
   <body>
@@ -37,7 +48,7 @@
 	</div>
 
 	<p class="footer">Website and Logo designed by <a href="https://twitter.com/rpitting">Reiner Pittinger</a>. Thanks!</p>
-	
+	  <p><a onclick="load()">abc</a></p>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
