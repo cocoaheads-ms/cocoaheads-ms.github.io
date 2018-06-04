@@ -33,7 +33,7 @@
       }
 
 	    
-    function loadICal() {
+    function loadICal(callback) {
         fetch('http://apps.chbeer.de/cocoaheads-ical.php')
         .then(response => response.text())
         .then((data) => {
@@ -41,10 +41,8 @@
                 var jcal = ICAL.parse(data);
 		var comp = new ICAL.Component(jcal);
 		var vevent = comp.getFirstSubcomponent("vevent");		
-		console.log("vevent: " + vevent);
 		var event = new ICAL.Event(vevent);
-		console.log("event: " + event);
-		return event;
+		callback(event);
             } catch (icalerr) {
                 console.log("Couldn't parse as iCalendar:\n" + stringError(icalerr))
             }
