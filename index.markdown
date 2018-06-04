@@ -19,7 +19,8 @@ Mehr Infos finden sich auf der <a href="http://cocoaheads.org:8106/de/Muenster/i
 
 # Nächstes Treffen
 
-<h2 class="meeting upcoming" id="nextMeeting">Bitte auf <a href="http://cocoaheads.org:8106/de/Muenster/index.html">der CocoaHeads Seite</a> schauen.</h2>
+<h2 class="meeting upcoming" id="nextMeeting"><small>Wird geladen…</small></h2>
+<!-- Bitte auf <a href="http://cocoaheads.org:8106/de/Muenster/index.html">der CocoaHeads Seite</a> schauen. -->
 
 <script language="JavaScript">
 function _ical_callback(event) {
