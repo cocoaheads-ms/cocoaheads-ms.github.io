@@ -24,7 +24,9 @@ Mehr Infos finden sich auf der <a href="http://cocoaheads.org:8106/de/Muenster/i
 <script language="JavaScript">
 function _ical_callback(event) {
   var nextMeeting = document.getElementById("nextMeeting");
-  nextMeeting.textContent = "" + event.startDate + " at " + event.location;
+  nextMeeting.textContent = "" + event.startDate.toJSDate().toLocaleDateString("de-DE") 
+	+ " - " + event.summary
+	+ "<br><small>" + event.location + "</small>;
 }
 loadICal(_ical_callback);
 </script>
