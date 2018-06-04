@@ -30,7 +30,7 @@ function _ical_callback(event) {
   var nextMeeting = document.getElementById("nextMeeting");
   var options = { year: "numeric", month: "long", day: "numeric", hour: "numeric", minute: "2-digit" };
   nextMeeting.innerHTML = "" + event.startDate.toJSDate().toLocaleDateString("de-DE", options) 
-	+ " - " + event.location;
+	+ "<br>" + event.location;
 }
 loadICal(_ical_callback);
 </script>
