@@ -28,9 +28,9 @@ function _ical_callback(event) {
   evnt = event;
 
   var nextMeeting = document.getElementById("nextMeeting");
-  nextMeeting.textContent = "" + event.startDate.toJSDate().toLocaleDateString("de-DE") 
-	+ " - " + event.summary
-	+ "<br><small>" + event.location + "</small>";
+  var options = { weekday: "numeric", year: "numeric", month: "long", day: "numeric", hour: "numeric", minute: "2-digit" };
+  nextMeeting.innerHTML = "" + event.startDate.toJSDate().toLocaleDateString("de-DE", options) 
+	+ " - " + event.location;
 }
 loadICal(_ical_callback);
 </script>
