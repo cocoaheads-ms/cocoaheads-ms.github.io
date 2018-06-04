@@ -26,7 +26,7 @@
     <script type="text/javascript" src="https://rawgit.com/mozilla-comm/ical.js/master/build/ical.js"></script>
     <script type="text/javascript">
     function load() {
-        fetch('http://www.cocoaheads.org//de/Muenster/events.ics')
+        fetch('http://apps.chbeer.de/cocoaheads-ical.php')
         .then(response => response.text())
         .then((data) => {
               console.log(data)
