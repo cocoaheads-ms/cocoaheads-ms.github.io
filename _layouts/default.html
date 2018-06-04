@@ -38,8 +38,8 @@
         .then(response => response.text())
         .then((data) => {
               try {
-                var jcal = ICAL.parse(data.value);
-		      console.log(jcal);
+                var jcal = ICAL.parse(data);
+		console.log(jcal);
             } catch (icalerr) {
                 alert("Couldn't parse as iCalendar:\n" +
                     stringError(icalerr))
