@@ -39,10 +39,11 @@
         .then((data) => {
               try {
                 var jcal = ICAL.parse(data);
-		console.log(jcal);
+		var comp = new ICAL.Component(jcal);
+		var vevent = comp.getFirstSubcomponent("vevent");		
+		console.log(vevent);
             } catch (icalerr) {
-                alert("Couldn't parse as iCalendar:\n" +
-                    stringError(icalerr))
+                console.log("Couldn't parse as iCalendar:\n" + stringError(icalerr))
             }
               })
     }
@@ -62,7 +63,7 @@
 	</div>
 
 	<p class="footer">Website and Logo designed by <a href="https://twitter.com/rpitting">Reiner Pittinger</a>. Thanks!</p>
-	  <p><a onclick="load()">123</a></p>
+	  <p><a onclick="load()">1</a></p>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
