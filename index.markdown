@@ -23,7 +23,10 @@ Mehr Infos finden sich auf der <a href="http://cocoaheads.org:8106/de/Muenster/i
 <!-- Bitte auf <a href="http://cocoaheads.org:8106/de/Muenster/index.html">der CocoaHeads Seite</a> schauen. -->
 
 <script language="JavaScript">
+var evnt;
 function _ical_callback(event) {
+  evnt = event;
+
   var nextMeeting = document.getElementById("nextMeeting");
   nextMeeting.textContent = "" + event.startDate.toJSDate().toLocaleDateString("de-DE") 
 	+ " - " + event.summary
