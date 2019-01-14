@@ -30,6 +30,12 @@ function _ical_callback(event) {
   evnt = event;
 
   var nextMeeting = document.getElementById("nextMeeting");
+  
+  if (event.startDate === null) {
+    nextMeeting.innerHTML = "<i>Kein Event</i>";
+    return;
+  }
+  
   var options = { year: "numeric", month: "long", day: "numeric", hour: "numeric", minute: "2-digit" };
   nextMeeting.innerHTML = "" + event.startDate.toJSDate().toLocaleDateString("de-DE", options) 
 	+ "<br>" + event.location;
